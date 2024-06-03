@@ -125,7 +125,7 @@ int main() {
     if (scanf("%d", &escolhas) != 1) {
       while (getchar() != '\n')
         ;
-      escolhas = 0;
+      escolhas? = 0;
     }
   }
 
